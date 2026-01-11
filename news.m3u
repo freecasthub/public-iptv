@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="dw.news" tvg-name="DW News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png" group-title="News",DW News
+#EXTINF:-1 tvg-id="dw_news" tvg-name="DW News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dw-de.png" group-title="News",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
-#EXTINF:-1 tvg-id="france24.en" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/France_24_logo.svg/512px-France_24_logo.svg.png" group-title="News",France 24 English
+#EXTINF:-1 tvg-id="france24_en" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png" group-title="News",France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="aljazeera.en" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera.svg/512px-Aljazeera.svg.png" group-title="News",Al Jazeera English
+#EXTINF:-1 tvg-id="aljazeera_en" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="euronews.en" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Euronews_2022.svg/512px-Euronews_2022.svg.png" group-title="News",Euronews English
+#EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/euro-news-int.png?raw=true" group-title="News",Euronews
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="trt.world" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_World_logo.svg/512px-TRT_World_logo.svg.png" group-title="News",TRT World
+#EXTINF:-1 tvg-id="trt_world" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="arirang" tvg-name="Arirang TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Arirang_TV_logo.svg/512px-Arirang_TV_logo.svg.png" group-title="News",Arirang TV
+#EXTINF:-1 tvg-id="arirang_tv" tvg-name="Arirang TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true" group-title="News",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
