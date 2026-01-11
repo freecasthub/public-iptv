@@ -2,24 +2,40 @@
 
 A curated collection of **free, legal, and publicly available** live TV streams from official public broadcasters around the world.
 
-## 📺 Playlist
+## 📺 Playlists
+
+### All Channels
 
 ```
 https://raw.githubusercontent.com/freecasthub/public-iptv/main/playlist.m3u
 ```
 
+### By Category
+
+| Category | Channels | URL |
+|----------|----------|-----|
+| 📰 News | 7 | `https://raw.githubusercontent.com/freecasthub/public-iptv/main/news.m3u` |
+| ⚽ Sports | 1 | `https://raw.githubusercontent.com/freecasthub/public-iptv/main/sports.m3u` |
+
 ## 📋 Channel List
 
-| Channel | Country | Category | Source |
-|---------|---------|----------|--------|
-| DW News | Germany | News | Deutsche Welle (Public Broadcaster) |
-| France 24 English | France | News | France Médias Monde (Public Broadcaster) |
-| Al Jazeera English | Qatar | News | Al Jazeera Media Network |
-| CGTN | China | News | China Media Group |
-| Euronews | Europe | News | Euronews (EBU Member) |
-| TRT World | Turkey | News | Turkish Radio and Television Corporation |
-| Arirang TV | South Korea | News | Korea International Broadcasting Foundation |
-| Red Bull TV | Austria | Sports | Red Bull GmbH (Free Official Channel) |
+### 📰 News (7 channels)
+
+| Channel | Country | Source |
+|---------|---------|--------|
+| DW News | 🇩🇪 Germany | Deutsche Welle (Public Broadcaster) |
+| France 24 English | 🇫🇷 France | France Médias Monde (Public Broadcaster) |
+| Al Jazeera English | 🇶🇦 Qatar | Al Jazeera Media Network |
+| CGTN | 🇨🇳 China | China Media Group |
+| Euronews | 🇪🇺 Europe | Euronews (EBU Member) |
+| TRT World | 🇹🇷 Turkey | Turkish Radio and Television Corporation |
+| Arirang TV | 🇰🇷 South Korea | Korea International Broadcasting Foundation |
+
+### ⚽ Sports (1 channel)
+
+| Channel | Country | Source |
+|---------|---------|--------|
+| Red Bull TV | 🇦🇹 Austria | Red Bull GmbH (Free Official Channel) |
 
 ## ✅ Inclusion Criteria
 
