@@ -17,26 +17,6 @@ https://raw.githubusercontent.com/freecasthub/public-iptv/main/playlist.m3u
 | 📰 News | 7 | `https://raw.githubusercontent.com/freecasthub/public-iptv/main/news.m3u` |
 | ⚽ Sports | 1 | `https://raw.githubusercontent.com/freecasthub/public-iptv/main/sports.m3u` |
 
-## 📋 Channel List
-
-### 📰 News (7 channels)
-
-| Channel | Country | Source |
-|---------|---------|--------|
-| DW News | 🇩🇪 Germany | Deutsche Welle (Public Broadcaster) |
-| France 24 English | 🇫🇷 France | France Médias Monde (Public Broadcaster) |
-| Al Jazeera English | 🇶🇦 Qatar | Al Jazeera Media Network |
-| CGTN | 🇨🇳 China | China Media Group |
-| Euronews | 🇪🇺 Europe | Euronews (EBU Member) |
-| TRT World | 🇹🇷 Turkey | Turkish Radio and Television Corporation |
-| Arirang TV | 🇰🇷 South Korea | Korea International Broadcasting Foundation |
-
-### ⚽ Sports (1 channel)
-
-| Channel | Country | Source |
-|---------|---------|--------|
-| Red Bull TV | 🇦🇹 Austria | Red Bull GmbH (Free Official Channel) |
-
 ## ✅ Inclusion Criteria
 
 All channels in this playlist must meet the following requirements:
