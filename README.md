@@ -12,10 +12,11 @@ https://raw.githubusercontent.com/freecasthub/public-iptv/main/playlist.m3u
 
 ### By Category
 
-| Category | Channels | URL |
+| Category | URL |
 |----------|----------|-----|
-| 📰 News | 7 | `https://raw.githubusercontent.com/freecasthub/public-iptv/main/news.m3u` |
-| ⚽ Sports | 1 | `https://raw.githubusercontent.com/freecasthub/public-iptv/main/sports.m3u` |
+| News | `https://raw.githubusercontent.com/freecasthub/public-iptv/main/news.m3u` |
+| Sports | `https://raw.githubusercontent.com/freecasthub/public-iptv/main/sports.m3u` |
+| Weather | `https://raw.githubusercontent.com/freecasthub/public-iptv/main/weather.m3u` |
 
 ## ✅ Inclusion Criteria
 
