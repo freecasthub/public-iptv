@@ -5,7 +5,7 @@ A curated collection of **free, legal, and publicly available** live TV streams 
 ## 📺 Playlist
 
 ```
-https://raw.githubusercontent.com/freecasthub/free-public-iptv/main/playlist.m3u
+https://raw.githubusercontent.com/freecasthub/public-iptv/main/playlist.m3u
 ```
 
 ## 📋 Channel List
