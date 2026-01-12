@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/freecasthub/public-iptv/main/playlist.m3u
 | News | `https://raw.githubusercontent.com/freecasthub/public-iptv/main/news.m3u` |
 | Sports | `https://raw.githubusercontent.com/freecasthub/public-iptv/main/sports.m3u` |
 | Weather | `https://raw.githubusercontent.com/freecasthub/public-iptv/main/weather.m3u` |
+| Education | `https://raw.githubusercontent.com/freecasthub/public-iptv/main/education.m3u` |
 
 ## ✅ Inclusion Criteria
 
